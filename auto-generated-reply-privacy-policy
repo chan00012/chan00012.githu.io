@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - auto-generated-reply</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for auto-generated-reply</h1>
+  <p><strong>Effective Date:</strong> July 24, 2025</p>
+
+  <p><strong>auto-generated-reply</strong> (“the App”) respects your privacy. This privacy policy outlines how we handle information when you use our app, especially in connection with Meta products such as Facebook or Messenger.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We do <strong>not</strong> collect, store, or process any personal data from users. The App only connects to Facebook Business Suite’s Messenger API for the purpose of creating automated replies based on keyword triggers.</p>
+
+  <h2>2. How We Use Data</h2>
+  <p>Since we do not collect or store user data, we do not use any personal information for any purpose.</p>
+
+  <h2>3. Use of Meta APIs</h2>
+  <p>The App uses Meta’s Messenger API only to:</p>
+  <ul>
+    <li>Read messages sent to the Facebook page</li>
+    <li>Send automated keyword-based replies</li>
+  </ul>
+  <p>No message data is stored, logged, or shared by our servers. All processing is handled within the automation logic of the platform (e.g., n8n) and is transient in nature.</p>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do <strong>not</strong> share any information with third parties.</p>
+
+  <h2>5. Data Retention</h2>
+  <p>Since we do not collect or store any data, there is no data retained.</p>
+
+  <h2>6. User Controls</h2>
+  <p>As no personal data is collected, there are no user accounts or identifiable information to manage or delete.</p>
+
+  <h2>7. Security</h2>
+  <p>Although we do not store data, we ensure secure communication with Meta’s APIs using encrypted channels (HTTPS).</p>
+
+  <h2>8. Contact Us</h2>
+  <p>If you have any questions about this privacy policy or the app’s behavior, feel free to contact:</p>
+  <p><strong>Email:</strong> cstrobles@gmail.com<br/>
+     <strong>Country:</strong> Philippines</p>
+</body>
+</html>
